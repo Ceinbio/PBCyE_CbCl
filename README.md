@@ -1,4 +1,4 @@
-# PBCyE_CbCl
+# PBCyE_CblC
 
 This folder contains the information regarding molecular dynamics simulations (MD) of human CblC (doi:).
 
